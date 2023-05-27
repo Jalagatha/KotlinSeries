@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Series</string>
+    <string name="sign">\? SignUp\n</string>
+    <string name="don_t">Don\'t Have An Account? SignUp</string>
+</resources>
